@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-gray-300;
+  }
+
+  body {
+    @apply antialiased;
+    background-color: #FFFFFF;
+    color: #333333;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #333333;
+    font-weight: 600;
+  }
+}
