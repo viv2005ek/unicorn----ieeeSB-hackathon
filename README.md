@@ -57,9 +57,7 @@ The platform promotes sustainable fashion by making clothing resale interactive,
 ## 🛠 Tech Stack  
 
 - React.js  
-- Node.js  
-- Express.js  
-- MongoDB  
+- Firebase  
 - Payment Gateway Integration  
 - Vercel (Deployment)  
 
